@@ -1,3 +1,9 @@
+#include <stdio.h>
+#include <assert.h>
+#include <string.h>
+#include <cs50.h>
+
+
 string table[14] = {"Kindergarten", "First/Second Grade", "Third Grade", "Fourth Grade", "Fifth Grade", "Sixth Grade", "Seventh Grade",
     "Eighth Grade", "Ninth Grade", "Tenth Grade", "Eleventh Grade", "Twelfth Grade", "College student", "Professor"};
 
